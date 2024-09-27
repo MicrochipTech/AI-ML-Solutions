@@ -1,4 +1,4 @@
-# AI ML Solutions
+<h1 align="center">AI ML Solutions</h1>
 
 ## MCU
 
