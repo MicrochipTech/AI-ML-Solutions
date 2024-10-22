@@ -27,8 +27,7 @@ Github Page: https://github.com/gokcit/Face-Recognition-SAMA7G54/tree/main
 ### Object Detection
 ![parking lot](https://github.com/MicrochipTech/AI-ML-Solutions/blob/main/parking%20lot.gif)
 
-### License Plate Detection
-![License Plate Demo](https://github.com/gokcit/AI-ML-Solutions/blob/main/licenseplate.gif)
+
 
 ### Keyword Spotting
 ![Keyword Spotting](https://github.com/MicrochipTech/ml-same54-cult-wm8904-edgeimpulse-kws-demo/blob/main/assets/keywords-with-edge-impulse.gif)
@@ -41,3 +40,5 @@ Github Page: https://github.com/gokcit/Face-Recognition-SAMA7G54/tree/main
 ![Person Detection Demo](https://github.com/gokcit/AI-ML-Solutions/blob/main/fpga-demo-person-detection.gif)
 ### Object Detection
 ![Person Detection Demo](https://github.com/gokcit/AI-ML-Solutions/blob/main/fpga-vectoblox.gif)
+### License Plate Detection
+![License Plate Demo](https://github.com/gokcit/AI-ML-Solutions/blob/main/licenseplate.gif)
