@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/MicrochipTech/AI-ML-Solutions/blob/main/logo-mchp.png" alt="Logo" width="300" height="100">
+  <img src="https://github.com/MicrochipTech/AI-ML-Solutions/blob/main/logo-mchp.png" alt="Logo" width="300" height="120">
 </p>
 
 # AI ML Solutions
