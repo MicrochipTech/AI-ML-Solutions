@@ -10,11 +10,11 @@
    - [Predictive Maintenance](#predictive-maintenance)
    - [Predictive Maintenance Fan Condition Monitoring](#predictive-maintenance-fan-condition-monitoring)
 2. [MPU](#mpu)
-   - [Face Recognition](#face-recognition)
+   - [Face Recognition](#face-recognition-with-sama)
    - [Object Detection](#object-detection)
    - [Keyword Spotting](#keyword-spotting)
 3. [FPGA](#fpga)
-   - [Face Recognition](#face-recognition)
+   - [Face Recognition](#face-recognition-with-polarfire)
    - [Person Detection](#person-detection)
    - [Object Detection](#object-detection)
    - [License Plate Detection](#license-plate-detection)
@@ -35,7 +35,7 @@
 ![Fan Condition Demo](https://github.com/MicrochipTech/ml-samd21-iot-sensiml-fan-condition-demo/blob/main/assets/fandemo.gif)
 ## MPU
 
-### Face Recognition
+### Face Recognition with SAMA
 
 Github Page: https://github.com/gokcit/Face-Recognition-SAMA7G54/tree/main
 
@@ -50,7 +50,7 @@ Github Page: https://github.com/gokcit/Face-Recognition-SAMA7G54/tree/main
 ![Keyword Spotting](https://github.com/MicrochipTech/ml-same54-cult-wm8904-edgeimpulse-kws-demo/blob/main/assets/keywords-with-edge-impulse.gif)
 
 ## FPGA
-### Face Recognition
+### Face Recognition with Polarfire
 ![Face Recognition Demo](https://github.com/gokcit/AI-ML-Solutions/blob/main/fpga-demo.gif)
 ![Face Recognition Demo](https://github.com/gokcit/AI-ML-Solutions/blob/main/face-recognition-fpga.gif)
 ### Person Detection
