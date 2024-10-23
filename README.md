@@ -4,11 +4,20 @@
 
 # AI ML Solutions
 
-# Table of Contents
+# Overview
 1. [MCU](#mcu)
-   * [Gesture Detection](#gesture-detection)
-3. [MPU](#mpu)
-4. [FPGA](#fpga)
+   - [Gesture Detection](#gesture-detection)
+   - [Predictive Maintenance](#predictive-maintenance)
+   - [Predictive Maintenance Fan Condition Monitoring](#predictive-maintenance-fan-condition-monitoring)
+2. [MPU](#mpu)
+   - [Face Recognition](#face-recognition)
+   - [Object Detection](#object-detection)
+   - [Keyword Spotting](#keyword-spotting)
+3. [FPGA](#fpga)
+   - [Face Recognition](#face-recognition)
+   - [Person Detection](#person-detection)
+   - [Object Detection](#object-detection)
+   - [License Plate Detection](#license-plate-detection)
 
 
     
