@@ -4,6 +4,14 @@
 
 # AI ML Solutions
 
+# Table of Contents
+1. [MCU](#mcu)
+   * [Gesture Detection](#gesture-detection)
+3. [MPU](#mpu)
+4. [FPGA](#fpga)
+
+
+    
 ## MCU
 
 ## Gesture Detection
