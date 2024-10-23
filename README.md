@@ -16,7 +16,7 @@
 3. [FPGA](#fpga)
    - [Face Recognition](#face-recognition-with-polarfire)
    - [Person Detection](#person-detection)
-   - [Object Detection](#object-detection)
+   - [Object Detection](#object-detection-with-polarfire)
    - [License Plate Detection](#license-plate-detection)
 
 
@@ -55,7 +55,7 @@ Github Page: https://github.com/gokcit/Face-Recognition-SAMA7G54/tree/main
 ![Face Recognition Demo](https://github.com/gokcit/AI-ML-Solutions/blob/main/face-recognition-fpga.gif)
 ### Person Detection
 ![Person Detection Demo](https://github.com/gokcit/AI-ML-Solutions/blob/main/fpga-demo-person-detection.gif)
-### Object Detection
+### Object Detection with Polarfire
 ![Person Detection Demo](https://github.com/gokcit/AI-ML-Solutions/blob/main/fpga-vectoblox.gif)
 ### License Plate Detection
 ![License Plate Demo](https://github.com/gokcit/AI-ML-Solutions/blob/main/licenseplate.gif)
